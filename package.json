@@ -1,7 +1,7 @@
 {
   "name": "react-router",
   "version": "0.1.0",
-  "homepage": "https://SaraBMS.github.io/react_deploy",
+  "homepage": "https://SaraBMS.github.io/React-blog",
   "private": true,
   "dependencies": {
     "axios": "^1.6.8",
